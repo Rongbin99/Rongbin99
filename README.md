@@ -1,6 +1,6 @@
-### Hi there 👋
-My name is Rongbin, yeah. I do coding sometimes, _no further comment_. 
-You can reach me via email __gu.rongbin99@gmail.com__ or via social media, __@Rongbin99__ on Instagram and Twitter. I stream sometimes on Twitch, and I watch anime and play video games.
+<img src="Wallpaper2.jpg">
+<h1>Hi there 👋</h1>
+My name is Rongbin, yeah, I do programming sometimes, _no further comment_. 
+Currently studying Computer Engineering at the University of Waterloo, always seeking co-op opportunities!
 
-
-I currently just have random Python files here that I've made in the past. Nothing special. Have a nice day. 
+You can reach me via email at __gu.rongbin99@gmail.com__ or via social media, __@Rongbin99__ on Instagram and X. I sometimes stream on Twitch, and I watch anime and play video games.
