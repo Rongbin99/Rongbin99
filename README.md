@@ -25,6 +25,12 @@
 
 </div>
 
+<p aligh="center">
+<a href="https://www.linkedin.com/in/rongbin99/" target="_blank><img style="margin: 10px" src="https://github.com/Rongbin99/Rongbin99/blob/main/assets/LI-In-Bug.png" alt="LinkedIn" height="50" /></a>
+
+
+
+
 
 <div align="center">
 
