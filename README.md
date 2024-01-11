@@ -7,8 +7,11 @@
 </div>
 
 <div align="center">
-  ### My name is Rongbin Gu, yeah, I do programming sometimes, _no further comment_. 
+
+### My name is Rongbin Gu, yeah, I do programming sometimes, _no further comment_. 
+
 </div>
+
 - 📚 Currently Studying [Computer Engineering](https://ece.uwaterloo.ca/) at the [University of Waterloo](https://uwaterloo.ca/)
 - 💼 Always Seeking Co-op Opportunities!
 - 🌎 Based in Toronto, Canada 🍁
@@ -17,12 +20,16 @@
 - 📨 Contact me at __gu.rongbin99@gmail.com__ or __rongbin.gu@uwaterloo.ca__
 
 <div align="center">
+
 ### Socials
+
 </div>
 
 
 <div align="center">
+
 ### Skills
+
 </div>
 
 
