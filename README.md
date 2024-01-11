@@ -6,6 +6,8 @@
 
 </div>
 
+
+
 <div align="center">
 
 ### My name is Rongbin Gu, yeah, I do programming sometimes, _no further comment_. 
@@ -19,6 +21,8 @@
 - 🌐 English, but *can* French 🥖 and Mandarin🏮
 - 📨 Contact me at __gu.rongbin99@gmail.com__ or __rongbin.gu@uwaterloo.ca__
 
+
+
 <div align="center">
 
 ### Socials
@@ -30,6 +34,8 @@
 
 
 
+</p>
+
 
 
 <div align="center">
@@ -37,6 +43,7 @@
 ### Skills
 
 </div>
+
 
 
 > [!TIP]
