@@ -18,7 +18,7 @@
 - 💼 Always Seeking Co-op Opportunities!
 - 🌎 Based in Toronto, Canada 🍁
 - 🍿 Anime Watcher and Video Gamer <sub>(occasionally)
-- 🌐 English, but *can* French 🥖 and Mandarin🏮
+- 🌐 English, but *can* French 🥖 and Mandarin 🏮
 - 📨 Contact me at __gu.rongbin99@gmail.com__ or __rongbin.gu@uwaterloo.ca__
 
 
