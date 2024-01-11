@@ -15,7 +15,7 @@
 - 📚 Currently Studying [Computer Engineering](https://ece.uwaterloo.ca/) at the [University of Waterloo](https://uwaterloo.ca/)
 - 💼 Always Seeking Co-op Opportunities!
 - 🌎 Based in Toronto, Canada 🍁
-- 🍿 Anime Watcher and Video Gamer (occasionally)
+- 🍿 Anime Watcher and Video Gamer <sub>(occasionally)
 - 🌐 English, but *can* French 🥖 and Mandarin🏮
 - 📨 Contact me at __gu.rongbin99@gmail.com__ or __rongbin.gu@uwaterloo.ca__
 
