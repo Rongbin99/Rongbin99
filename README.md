@@ -60,7 +60,7 @@
 <div align="center">
 
 ### Website and Hosted Projects
-###### My website with all my hosted projects can be located [**here**](https://rongbin99.github.io/)!
+##### My website with all my hosted projects can be located [**here**](https://rongbin99.github.io/)!
 
 </div>
 
