@@ -23,8 +23,8 @@
 
 
 
-<h3 aligh="center">Socials</h3>
-<p aligh="center">
+<h3 align="center">Socials</h3>
+<p align="center">
 <a href="https://www.linkedin.com/in/rongbin99/" target="_blank"><img style="margin: 10px" src="https://github.com/Rongbin99/Rongbin99/blob/main/assets/LI-In-Bug.png" alt="LinkedIn" height="50" /></a>
 <a href="https://twitter.com/rongbin99" target="_blank"><img style="margin: 10px" src="https://github.com/Rongbin99/Rongbin99/blob/main/assets/sl_z_072523_61700_01.jpg" alt="X / Twitter" height="50" /></a>
 
