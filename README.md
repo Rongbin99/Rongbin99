@@ -34,9 +34,25 @@
 </p>
 
 
+
 <h3 align="center">Skills</h3>
 <p align="center">
+<a href="https://www.cplusplus.com/" target="_blank"><img style="margin: 10px" src="https://github.com/Rongbin99/Rongbin99/blob/main/assets/ISO_C%2B%2B_Logo.svg.png" height="50" /></a> 
+<a href="https://www.python.org/" target="_blank"><img style="margin: 10px" src="https://github.com/Rongbin99/Rongbin99/blob/main/assets/Python-logo-notext.svg.png" alt="Python" height="50" /></a>  
+<a href="https://git-scm.com/" target="_blank"><img style="margin: 10px" src="https://github.com/Rongbin99/Rongbin99/blob/main/assets/Git-Icon-1788C.png" alt="Git" height="50" /></a>
+<a href="https://en.wikipedia.org/wiki/HTML5" target="_blank"><img style="margin: 10px" src="https://github.com/Rongbin99/Rongbin99/blob/main/assets/HTML5_logo_and_wordmark.svg.png" alt="HTML5" height="50" /></a>
+<a href="https://code.visualstudio.com/" target="_blank"><img style="margin: 10px" src="https://github.com/Rongbin99/Rongbin99/blob/main/assets/Visual_Studio_Code_1.35_icon.svg.webp" alt="Visual Studio Code" height="50" /></a>
+<a href="https://www.javascript.com/" target="_blank"><img style="margin: 10px" src="https://github.com/Rongbin99/Rongbin99/blob/main/assets/JavaScript-logo.png" alt="JavaScript" height="50" /></a>
 
+<a href="https://www.adobe.com/ca/products/premiere.html" target="_blank"><img style="margin: 10px" src="https://github.com/Rongbin99/Rongbin99/blob/main/assets/adobe_premiere_pro_macos_bigsur_icon_189485.png" alt="Adobe Premiere Pro" height="50" /></a>
+<a href="https://www.adobe.com/ca/products/aftereffects.html" target="_blank"><img style="margin: 10px" src="https://github.com/Rongbin99/Rongbin99/blob/main/assets/adobe_after_effects_macos_bigsur_icon_190464.png" alt="Adobe After Effects" height="50" /></a>
+<a href="https://www.adobe.com/ca/products/photoshop.html" target="_blank"><img style="margin: 10px" src="https://github.com/Rongbin99/Rongbin99/blob/main/assets/adobe_photoshop_macos_bigsur_icon_190436.png" alt="Adobe Photoshop" height="50" /></a>
+<a href="https://www.adobe.com/ca/products/illustrator.html" target="_blank"><img style="margin: 10px" src="https://github.com/Rongbin99/Rongbin99/blob/main/assets/adobe_illustrator_macos_bigsur_icon_190447.png" alt="Adobe Illustrator" height="50" /></a>
+<a href="https://www.adobe.com/ca/products/media-encoder.html" target="_blank"><img style="margin: 10px" src="https://github.com/Rongbin99/Rongbin99/blob/main/assets/adobe_media_encoder_macos_bigsur_icon_190437.png" alt="Adobe Media Encoder" height="50" /></a>
+<a href="https://www.adobe.com/ca/products/photoshop-lightroom.html" target="_blank"><img style="margin: 10px" src="https://github.com/Rongbin99/Rongbin99/blob/main/assets/adobe_lightroom_macos_bigsur_icon_190441.png" alt="Adobe Lightroom" height="50" /></a>
+<a href="https://www.adobe.com/ca/products/audition.html" target="_blank"><img style="margin: 10px" src="https://github.com/Rongbin99/Rongbin99/blob/main/assets/adobe_audition_macos_bigsur_icon_190460.png" alt="Adobe Audition" height="50" /></a>
+
+</p>
 
 
 
