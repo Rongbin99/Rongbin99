@@ -1,4 +1,4 @@
-![Pink sky across majestic mountains](https://github.com/Rongbin99/Rongbin99/blob/main/assets/Wallpaper2.jpg)
+![Pink sky across majestic mountains](https://github.com/Rongbin99/Rongbin99/blob/main/assets/Wallpaper2-01.svg)
 
 <div align="center">
 
