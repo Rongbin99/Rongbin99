@@ -23,7 +23,7 @@
 
 
 
-<h3 align="center">Socials</h3>
+<h2 align="center">Socials</h2>
 <p align="center">
 <a href="https://www.linkedin.com/in/rongbin99/" target="_blank"><img style="margin: 10px" src="https://github.com/Rongbin99/Rongbin99/blob/main/assets/LI-In-Bug.png" alt="LinkedIn" height="50" /></a>
 <a href="https://twitter.com/rongbin99" target="_blank"><img style="margin: 10px" src="https://github.com/Rongbin99/Rongbin99/blob/main/assets/sl_z_072523_61700_01.jpg" alt="X / Twitter" height="50" /></a>
@@ -40,7 +40,7 @@
 </div>
 
 
-<h3 align="center">Skills</h3>
+<h2 align="center">Skills</h2>
 <p align="center">
 <a href="https://www.cplusplus.com/" target="_blank"><img style="margin: 10px" src="https://github.com/Rongbin99/Rongbin99/blob/main/assets/ISO_C%2B%2B_Logo.svg.png" height="50" /></a> 
 <a href="https://www.python.org/" target="_blank"><img style="margin: 10px" src="https://github.com/Rongbin99/Rongbin99/blob/main/assets/Python-logo-notext.svg.png" alt="Python" height="50" /></a>  
@@ -67,12 +67,13 @@
 
 <div align="center">
 
-### Website and Hosted Projects
+<h2>Website and Hosted Projects</h2>
+
 #### 🌟 [**My website with all my hosted projects can be located here!**](https://rongbin99.github.io/) 🌟
 
 </div>
 
-
+<hr>
 
 > [!TIP]
 > You'll have a greater chance of me replying on Instagram or through email (I don't check X / LinkedIn DMs often).
