@@ -35,7 +35,7 @@
 
 <div align="center">
   
-##### 🌟 [**Full list available here!**](https://linktr.ee/rongbin99) 🌟
+#### 🌟 [**Full list available here!**](https://linktr.ee/rongbin99) 🌟
 
 </div>
 
@@ -68,7 +68,7 @@
 <div align="center">
 
 ### Website and Hosted Projects
-##### 🌟 [**My website with all my hosted projects can be located here!**](https://rongbin99.github.io/) 🌟
+#### 🌟 [**My website with all my hosted projects can be located here!**](https://rongbin99.github.io/) 🌟
 
 </div>
 
