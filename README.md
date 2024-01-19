@@ -66,10 +66,15 @@
 
 
 <div align="center">
-
 <h2>Website and Hosted Projects</h2>
+</div>
 
-#### 🌟 [**My website with all my hosted projects can be located here!**](https://rongbin99.github.io/) 🌟
+This website is a side project of mine, where I continously build it to reflect myself, my abilities, and to showcase some of my side projects and skills. More information can be found in the [GitHub repository](https://github.com/Rongbin99/Rongbin99.github.io).
+- Resume: [https://rongbin99.github.io/resume](https://rongbin99.github.io/resume)
+
+<div align="center">
+
+#### 🌟 My website with all my hosted projects can be located here! [**https://rongbin99.github.io/**](https://rongbin99.github.io/) 🌟
 
 </div>
 
