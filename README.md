@@ -70,7 +70,7 @@
 </div>
 
 This website is a side project of mine, where I continously build it to reflect myself, my abilities, and to showcase some of my side projects and skills. More information can be found in the [GitHub repository](https://github.com/Rongbin99/Rongbin99.github.io).
-- Resume: [https://rongbin99.github.io/resume](https://rongbin99.github.io/resume)
+- Resume: <a href="https://rongbin99.github.io/resume" target="_blank">https://rongbin99.github.io/resume</a>
 
 <div align="center">
 
