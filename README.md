@@ -40,14 +40,18 @@
 </div>
 
 
+
 <h2 align="center">Skills</h2>
 <p align="center">
-<a href="https://www.cplusplus.com/" target="_blank"><img style="margin: 10px" src="https://github.com/Rongbin99/Rongbin99/blob/main/assets/ISO_C%2B%2B_Logo.svg.png" height="50" /></a> 
+<a href="https://en.cppreference.com/w/c/language" target="_blank"><img style="margin: 10px" src="https://github.com/Rongbin99/Rongbin99/blob/main/assets/C_Programming_Language.svg" alt="C" height="50" /></a>
+<a href="https://www.cplusplus.com/" target="_blank"><img style="margin: 10px" src="https://github.com/Rongbin99/Rongbin99/blob/main/assets/ISO_C%2B%2B_Logo.svg.png" alt="C++" height="50" /></a> 
 <a href="https://www.python.org/" target="_blank"><img style="margin: 10px" src="https://github.com/Rongbin99/Rongbin99/blob/main/assets/Python-logo-notext.svg.png" alt="Python" height="50" /></a>  
 <a href="https://git-scm.com/" target="_blank"><img style="margin: 10px" src="https://github.com/Rongbin99/Rongbin99/blob/main/assets/Git-Icon-1788C.png" alt="Git" height="50" /></a>
 <a href="https://en.wikipedia.org/wiki/HTML5" target="_blank"><img style="margin: 10px" src="https://github.com/Rongbin99/Rongbin99/blob/main/assets/HTML5_logo_and_wordmark.svg.png" alt="HTML5" height="50" /></a>
 <a href="https://en.wikipedia.org/wiki/CSS" target="_blank"><img style="margin: 10px" src="https://github.com/Rongbin99/Rongbin99/blob/main/assets/CSS.3.svg" alt="CSS" height="50" /></a>
 <a href="https://www.javascript.com/" target="_blank"><img style="margin: 10px" src="https://github.com/Rongbin99/Rongbin99/blob/main/assets/JavaScript-logo.png" alt="JavaScript" height="50" /></a>
+<a href="https://nodejs.org/en" target="_blank"><img style="margin: 10px" src="https://github.com/Rongbin99/Rongbin99/blob/main/assets/Node.js_logo.svg" alt="Node.js" height="50" /></a>
+<a href="https://nextjs.org/" target="_blank"><img style="margin: 10px" src="https://github.com/Rongbin99/Rongbin99/blob/main/assets/nextjs-icon-512x512-y563b8iq.png" alt="Next.js" height="50" /></a>
 <a href="https://code.visualstudio.com/" target="_blank"><img style="margin: 10px" src="https://github.com/Rongbin99/Rongbin99/blob/main/assets/Visual_Studio_Code_1.35_icon.svg.webp" alt="Visual Studio Code" height="50" /></a>
 <a href="https://www.mathworks.com/products/matlab.html" target="_blank"><img style="margin: 10px" src="https://github.com/Rongbin99/Rongbin99/blob/main/assets/Matlab_Logo.png" alt="MATLAB" height="50" /></a>
 <a href="https://www.latex-project.org/" target="_blank"><img style="margin: 10px" src="https://github.com/Rongbin99/Rongbin99/blob/main/assets/latex.svg" alt="LaTeX" height="50" /></a>
