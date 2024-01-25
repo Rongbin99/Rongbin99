@@ -54,7 +54,6 @@
 
 <p align="center">
 <a href="https://nodejs.org/en" target="_blank"><img style="margin: 10px" src="https://github.com/Rongbin99/Rongbin99/blob/main/assets/Node.js_logo.svg" alt="Node.js" height="50" /></a>
-<a href="https://nextjs.org/" target="_blank"><img style="margin: 10px" src="https://github.com/Rongbin99/Rongbin99/blob/main/assets/nextjs-icon-512x512-y563b8iq.png" alt="Next.js" height="50" /></a>
 <a href="https://git-scm.com/" target="_blank"><img style="margin: 10px" src="https://github.com/Rongbin99/Rongbin99/blob/main/assets/Git-Icon-1788C.png" alt="Git" height="50" /></a>
 <a href="https://code.visualstudio.com/" target="_blank"><img style="margin: 10px" src="https://github.com/Rongbin99/Rongbin99/blob/main/assets/Visual_Studio_Code_1.35_icon.svg.webp" alt="Visual Studio Code" height="50" /></a>
 <a href="https://developer.android.com/studio" target="_blank"><img style="margin: 10px" src="https://github.com/Rongbin99/Rongbin99/blob/main/assets/icons8-android-studio.svg" alt="Android Studio" height="50" /></a>
