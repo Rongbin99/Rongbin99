@@ -83,7 +83,8 @@
 
 This website is a side project of mine, where I continuously build it to reflect myself, and my abilities, and to showcase some of my side projects and skills. More information can be found in the [GitHub repository](https://github.com/Rongbin99/Rongbin99.github.io).
 - Resume: <a href="https://rongbin99.github.io/resume" target="_blank">https://rongbin99.github.io/resume</a>
-- Arts Portfolio: <a href="https://github.com/Rongbin99/arts-portfolio" target="_blank">https://github.com/Rongbin99/arts-portfolio</a>
+- Arts Portfolio: <a href="https://rongbin99.github.io/arts" target="_blank">https://rongbin99.github.io/arts</a>
+- Arts Portfolio Files: <a href="https://github.com/Rongbin99/arts-portfolio" target="_blank">https://github.com/Rongbin99/arts-portfolio</a>
 
 <div align="center">
 
