@@ -49,6 +49,7 @@
 <a href="https://www.python.org/" target="_blank"><img style="margin: 10px" src="https://github.com/Rongbin99/Rongbin99/blob/main/assets/Python-logo-notext.svg.png" alt="Python" height="50" /></a>  
 <a href="https://en.wikipedia.org/wiki/HTML5" target="_blank"><img style="margin: 10px" src="https://github.com/Rongbin99/Rongbin99/blob/main/assets/HTML5_logo_and_wordmark.svg.png" alt="HTML5" height="50" /></a>
 <a href="https://en.wikipedia.org/wiki/CSS" target="_blank"><img style="margin: 10px" src="https://github.com/Rongbin99/Rongbin99/blob/main/assets/CSS.3.svg" alt="CSS" height="50" /></a>
+<a href="https://tailwindcss.com/" target="_blank"><img style="margin: 10px" src="https://github.com/Rongbin99/Rongbin99/blob/main/assets/Tailwind_CSS_Logo.svg" alt="Tailwind CSS" height="50" /></a>  
 <a href="https://www.javascript.com/" target="_blank"><img style="margin: 10px" src="https://github.com/Rongbin99/Rongbin99/blob/main/assets/JavaScript-logo.png" alt="JavaScript" height="50" /></a>
 <a href="https://kotlinlang.org/" target="_blank"><img style="margin: 10px" src="https://github.com/Rongbin99/Rongbin99/blob/main/assets/kotlin-logo.png" alt="Kotlin" height="50" /></a>
 <a href="https://dart.dev/" target="_blank"><img style="margin: 10px" src="https://github.com/Rongbin99/Rongbin99/blob/main/assets/Dart-logo.png" alt="Dart" height="50" /></a>
@@ -88,7 +89,7 @@ This website is a side project of mine, where I continuously build it to reflect
 
 <div align="center">
 
-#### 🌟 My website with all my hosted projects can be located here! [**https://rongbin99.github.io/**](https://rongbin99.github.io/) 🌟
+#### 🌟 Visit my Website! [**https://rongbin99.github.io/**](https://rongbin99.github.io/) 🌟
 
 </div>
 
