@@ -36,7 +36,7 @@
 
 <div align="center">
   
-#### 🌟 [**Full list available here!**](https://linktr.ee/rongbin99) 🌟
+### 🌟 [**Full list available here!**](https://linktr.ee/rongbin99) 🌟
 
 </div>
 
@@ -89,7 +89,7 @@ This website is a side project of mine, where I continuously build it to reflect
 
 <div align="center">
 
-#### 🌟 Visit my Website! [**https://rongbin99.github.io/**](https://rongbin99.github.io/) 🌟
+### 🌟 Visit my Website! [**https://rongbin99.github.io/**](https://rongbin99.github.io/) 🌟
 
 </div>
 
