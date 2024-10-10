@@ -18,7 +18,6 @@
 - 💼 Always Seeking Co-op Opportunities!
 - 🌎 Based in Toronto, Canada 🍁
 - 🍿 Anime Watcher and Video Gamer <sub>(occasionally)
-- 🌐 English, but *can* French 🥖 and Mandarin 🏮
 - 📨 Contact me at __gu.rongbin99@gmail.com__ or __rongbin.gu@uwaterloo.ca__
 
 
@@ -29,9 +28,7 @@
 <a href="https://www.linkedin.com/in/rongbin99/" target="_blank"><img style="margin: 10px" src="https://github.com/Rongbin99/Rongbin99/blob/main/assets/LI-In-Bug.png" alt="LinkedIn" height="50" /></a>
 <a href="https://twitter.com/rongbin99" target="_blank"><img style="margin: 10px" src="https://github.com/Rongbin99/Rongbin99/blob/main/assets/sl_z_072523_61700_01.jpg" alt="X / Twitter" height="50" /></a>
 <a href="https://www.instagram.com/rongbin99/" target="_blank"><img style="margin: 10px" src="https://github.com/Rongbin99/Rongbin99/blob/main/assets/Instagram_Glyph_Gradient.svg" alt="Instagram" height="50" /></a>
-<a href="https://www.twitch.tv/rongbin99" target="_blank"><img style="margin: 10px" src="https://github.com/Rongbin99/Rongbin99/blob/main/assets/twitch-seeklogo.svg" alt="Twitch" height="50" /></a>
-<a href="https://discordapp.com/users/443143545990414346" target="_blank"><img style="margin: 10px" src="https://github.com/Rongbin99/Rongbin99/blob/main/assets/discord-mark-blue.svg" alt="Discord" height="50" /></a>
-<a href="https://www.youtube.com/@rongbin99" target="_blank"><img style="margin: 10px" src="https://github.com/Rongbin99/Rongbin99/blob/main/assets/youtube-logo-2431.svg" alt="Youtube" height="50" /></a>
+<a href="https://open.spotify.com/user/uct0zosx4uytk08tqn3exjcqt?si=684864d92dfa471a" target="_blank"><img style="margin: 10px" src="https://rongbin99.github.io/images/Spotify_icon.svg.webp" alt="Spotify" height="50" /></a>
 </p>
 
 <div align="center">
