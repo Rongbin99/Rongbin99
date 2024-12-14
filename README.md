@@ -20,25 +20,6 @@
 - 🍿 Anime Watcher and Video Gamer <sub>(occasionally)
 - 📨 Contact me at __gu.rongbin99@gmail.com__ or __rongbin.gu@uwaterloo.ca__
 
-
-
-<h2 align="center">Socials</h2>
-<p align="center">
-<a href="https://devpost.com/Rongbin99" target="_blank"><img style="margin: 10px" src="https://github.com/Rongbin99/Rongbin99/blob/main/assets/devpost-seeklogo.svg" alt="DevPost" height="50" /></a>
-<a href="https://www.linkedin.com/in/rongbin99/" target="_blank"><img style="margin: 10px" src="https://github.com/Rongbin99/Rongbin99/blob/main/assets/LI-In-Bug.png" alt="LinkedIn" height="50" /></a>
-<a href="https://twitter.com/rongbin99" target="_blank"><img style="margin: 10px" src="https://github.com/Rongbin99/Rongbin99/blob/main/assets/sl_z_072523_61700_01.jpg" alt="X / Twitter" height="50" /></a>
-<a href="https://www.instagram.com/rongbin99/" target="_blank"><img style="margin: 10px" src="https://github.com/Rongbin99/Rongbin99/blob/main/assets/Instagram_Glyph_Gradient.svg" alt="Instagram" height="50" /></a>
-<a href="https://open.spotify.com/user/uct0zosx4uytk08tqn3exjcqt?si=684864d92dfa471a" target="_blank"><img style="margin: 10px" src="https://rongbin99.github.io/images/Spotify_icon.svg.webp" alt="Spotify" height="50" /></a>
-</p>
-
-<div align="center">
-  
-### 🌟 [**Full list available here!**](https://linktr.ee/rongbin99) 🌟
-
-</div>
-
-
-
 <h2 align="center">Skills</h2>
 <p align="center">
 <a href="https://en.cppreference.com/w/c/language" target="_blank"><img style="margin: 10px" src="https://github.com/Rongbin99/Rongbin99/blob/main/assets/C_Programming_Language.svg" alt="C" height="50" /></a>
@@ -81,16 +62,11 @@
 
 This website is a side project of mine, where I continuously build it to reflect myself, and my abilities, and to showcase some of my side projects and skills. More information can be found in the [GitHub repository](https://github.com/Rongbin99/Rongbin99.github.io).
 - Resume: <a href="https://rongbin99.github.io/resume" target="_blank">https://rongbin99.github.io/resume</a>
-- Arts Portfolio: <a href="https://rongbin99.github.io/arts" target="_blank">https://rongbin99.github.io/creative</a>
-- Arts Portfolio Files: <a href="https://github.com/Rongbin99/arts-portfolio" target="_blank">https://github.com/Rongbin99/creative-portfolio</a>
+- Creative Portfolio: <a href="https://rongbin99.github.io/arts" target="_blank">https://rongbin99.github.io/creative</a>
+- Creative Portfolio Files: <a href="https://github.com/Rongbin99/arts-portfolio" target="_blank">https://github.com/Rongbin99/creative-portfolio</a>
 
 <div align="center">
 
 ### 🌟 Visit my Website! [**https://rongbin99.github.io/**](https://rongbin99.github.io/) 🌟
 
 </div>
-
-<hr>
-
-> [!TIP]
-> You'll have a greater chance of me replying on Instagram or through email (I don't check X / LinkedIn DMs often).
