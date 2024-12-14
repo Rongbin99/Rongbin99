@@ -6,12 +6,6 @@
 
 </div>
 
-<div align="center">
-
-### My name is Rongbin Gu, yeah, I do programming sometimes, _no further comment_. 
-
-</div>
-
 - 📚 Currently Studying [Computer Engineering](https://ece.uwaterloo.ca/) at the [University of Waterloo](https://uwaterloo.ca/)
 - 💼 Always Seeking Co-op Opportunities!
 - 🌎 Based in Toronto, Canada 🍁
